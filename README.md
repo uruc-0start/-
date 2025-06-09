@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 gantt
   title 3-Year DX & Data Roadmap (2025-07 → 2028-06)
   dateFormat  YYYY-MM-DD
@@ -37,3 +37,4 @@ gantt
   %% ──────────────── Continuous lane ───────
   section Continuous
   GitHub 学習ログ (週8h内で継続) :crit,    ghlog,    2025-07-01, 2028-06-30
+```
