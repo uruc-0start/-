@@ -1,3 +1,4 @@
+'''mermaid
 gantt
   title 3-Year DX & Data Roadmap (2025-07 → 2028-06)
   dateFormat  YYYY-MM-DD
