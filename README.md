@@ -2,7 +2,7 @@
 gantt
     title キャリアプラン ガントチャート (マイルストーン版)
     dateFormat  YYYY-MM-DD
-    axisFormat %Y年%m月
+    axisFormat  %Y-%m
 
     %% フェーズ1: IT基礎力の養成と学習習慣の確立
     section フェーズ1: IT基礎力
