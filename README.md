@@ -20,8 +20,6 @@ gantt
   基本情報 ♦ 春期試験                 :milestone,fe_ex,   2026-04-18, 0d
   AWS SAA 学習                        :saa,      2026-04-01, 2026-08-31
   AWS SAA ♦ 試験                      :milestone,saa_ex,  2026-09-01, 0d
-  Azure AI-900 学習                   :ai900,    2026-06-01, 2026-07-31
-  AI-900 ♦ 試験                       :milestone,ai900_ex,2026-08-01, 0d
   統計検定 2級 学習                   :stat2,    2026-09-15, 2026-11-15
   統計検定 2級 ♦ 試験                :milestone,stat2_ex,2026-11-16, 0d
   GenAI FAQ Web-App PoC               :faq,      2026-08-15, 2026-11-30
